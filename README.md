@@ -19,7 +19,8 @@
 <br />
 <p align="center">
   <samp>
-    $  <a href="https://t.me/seeingangelz" target="_blank">telegram</a> .
+    $ <a href="https://seeingangelz.neocities.org/" target="_blank">startpage</a> .
+    <a href="https://t.me/seeingangelz" target="_blank">telegram</a> .
     <a href="https://github.com/seeingangelz/dotfiles" target="_blank">dotfiles</a> .
     <a href="mailto:aeonsec@keemail.me" target="_blank">email</a> $
   </samp>
