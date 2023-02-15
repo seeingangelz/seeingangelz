@@ -25,20 +25,3 @@
     <a href="mailto:aeonsec@keemail.me"><img height="25" src="https://img.shields.io/badge/EMAIL-221f29?style=for-the-badge&logo=tutanota&logoColor=white"</a>
   </samp>
 </p>
-
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-<br><br>
-    
-<p align="center">
-  <samp>
-  <img src="https://komarev.com/ghpvc/?username=seeingangelz&style=for-the-badge&label=Profile+Views&color=221f29" alt="profile views"/>
-  </samp>
-</p>
-    
-<div align="center">
-    <tr>
-      <td><a href="#--------"><img height="145px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=seeingangelz&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
-      <td><a href="#--------"><img height="145px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seeingangelz&layout=compact&line_height=21&hide_border=true&theme=tokyonight"/></a></td>
-    </tr>
-</div>
