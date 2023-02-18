@@ -3,15 +3,15 @@
 └> aeonfetch
 ```
  
-<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/123886904/218268944-995c6c60-51bc-4f8f-bcd4-407c3f5f2ad2.gif" border="0" style="width:156px;">
- 
+<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/123886904/219822121-9c4c5265-34de-4bc4-8359-35e5f1ebc67c.gif" border="0" style="width:156px;">
+
   ```css
   seeingangelz@GitHub
   -----------------
   Name: aeon
   Languages: ["C", "ShellScript", "Go", "Lua"]
   Interests: ["Linux", "CyberSecurity", "FOSS"]
-  OS: Arch Linux
+  OS: Artix
   WM: DWM
   Uptime: 20 Years
   ```
