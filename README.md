@@ -13,7 +13,6 @@
   Interests: ["Linux", "CyberSecurity", "FOSS"]
   OS: Artix
   WM: DWM
-  Uptime: 20 Years
   ```
 </div>
 <br />
